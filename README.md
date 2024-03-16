@@ -1,1 +1,1 @@
-# Amazon_Review-Sentiment_Analysis-BiDirectional_LSTM
+# Amazon Review Sentiment-Analysis(Bi-Directional LSTM)
